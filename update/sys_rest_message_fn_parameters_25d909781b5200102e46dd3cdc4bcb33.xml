@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>specific_field</name>
+        <rest_message_function display_value="GetIPInfo">191a3cf81b1200102e46dd3cdc4bcba9</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-09 20:37:47</sys_created_on>
+        <sys_id>25d909781b5200102e46dd3cdc4bcb33</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>specific_field</sys_name>
+        <sys_package display_value="IPLookup" source="x_8597_iplookup">eea9bc781b1200102e46dd3cdc4bcbcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">eea9bc781b1200102e46dd3cdc4bcbcd</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_25d909781b5200102e46dd3cdc4bcb33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 20:39:30</sys_updated_on>
+        <type>string</type>
+        <value>postal</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
